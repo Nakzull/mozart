@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mozart", "mozart\mozart.csproj", "{06E29B56-6373-48A7-9C5B-51CCD64CCA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06E29B56-6373-48A7-9C5B-51CCD64CCA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E29B56-6373-48A7-9C5B-51CCD64CCA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E29B56-6373-48A7-9C5B-51CCD64CCA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E29B56-6373-48A7-9C5B-51CCD64CCA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E37E72FA-F0A7-4DA2-B988-A7FEFB184D8B}
+	EndGlobalSection
+EndGlobal
